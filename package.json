@@ -1,0 +1,14 @@
+{
+  "name": "blogapi",
+  "version": "1.0.0",
+  "description": "Thinkful challenge, blog api",
+  "main": "\u001b[D\u001b[D\u001b[D\u001bserver.js)",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cameron Dodd",
+  "license": "ISC",
+  "dependencies": {
+    "uuid": "^3.1.0"
+  }
+}
