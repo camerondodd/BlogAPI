@@ -4,7 +4,7 @@
   "description": "Thinkful challenge, blog api",
   "main": "\u001b[D\u001b[D\u001b[D\u001bserver.js)",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha"
   },
   "author": "Cameron Dodd",
   "license": "ISC",
